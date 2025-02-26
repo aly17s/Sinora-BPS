@@ -1,0 +1,281 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 98.5%;
+    background: radial-gradient(56.88% 60.37% at 49.97% 83.43%, rgba(67, 121, 238, 0.6) 7.5%, rgba(240, 240, 240, 0.6) 100%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background-blur {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 98.5%;
+    background: rgba(217, 217, 217, 0.41);
+    backdrop-filter: blur(85px);
+    z-index: 1; /* Pastikan background blur berada di lapisan bawah */
+}
+
+.app-name {
+    font-size: 30px;
+    font-weight: 750;
+}
+
+.top-bar {
+    z-index: 2;
+    display: flex;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.34);
+    padding: 3px;
+    padding-left: 40px;
+}
+
+#hallo {
+    margin: 25px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.top-bar input[type="text"] {
+
+    position: absolute;
+    right: 10px;
+    border-style: none;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.side-bar {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgba(255, 255, 255, 0);
+    position: fixed;
+    height: 90%;
+}
+
+.side-bar a, form {
+    position: relative;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 4px;
+    margin-left: 10px;
+    display: block;
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 30px;
+    transition: 0.15s;
+}
+
+#lo {
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.65);
+    transition: 0.3s;
+}
+
+#lo:hover{
+    background-color: rgba(255, 29, 29, 0.65);
+}
+
+button[type="submit"] {
+    background-color: transparent;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    text-align: left;
+    border-radius: 30px;
+    border-style: none;
+    margin: 0;
+    padding: 12px;
+    width: 100%;
+    transition: 0.3s;
+}
+
+button[type="submit"]:hover {
+    color: rgba(255, 255, 255);
+}
+
+#current-menu {
+    background-color: rgba(0, 147, 221, 0.65);
+    color: #ffffff;
+    font-weight: 900;
+}
+
+.side-bar h6 {
+    margin: 10px;
+    margin-left: 22px;
+}
+
+.settings-container {
+    position: absolute;
+    margin-bottom: 20px ;
+    width: 100%;
+    bottom: 0;
+}
+
+.side-bar a:hover, form:hover {
+    background-color: rgba(161,224,255, 0.65);
+}
+
+.title {
+    display: block;
+    margin-left: 250px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.title a {
+    background-color: rgba(0, 147, 221, 0.65);
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.content {
+    background-color: rgba(240, 248, 255, 0.80);
+    border-radius: 20px;
+    margin: 10px;
+    width: 85%; 
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.content h3 {
+    position: relative;
+    background-color: rgb(255, 255, 255, 0.65);
+    border-radius: 20px;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    font-weight: 300;
+    width: 20%;
+    height: 100px;
+}
+
+#o1 {
+    display: flex;
+    margin-left: 220px;
+    margin-right: 20px;
+}
+
+#o1 h3 {
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    height: 90px;
+    transition: 0.3s;
+}
+
+#o1 th {
+    margin: auto;
+    width: 100%;
+}
+
+#o1 h3:hover {
+    transform: translateY(-7.5px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#sm {
+    background-color: rgb(48, 183, 255);
+}
+
+#bd {
+    background-color: rgb(221, 255, 0);
+}
+
+#btl {
+    background-color: rgb(253, 73, 190);
+}
+
+#sd {
+    background-color: rgb(0, 253, 63);
+}
+
+#o1 p {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+#o2 {
+    display: flex;
+    background-color: rgba(240, 248, 255,0);;
+    width: auto;
+    margin-left: 220px;
+    margin-right: 20px;
+}
+
+#o2 h3 {
+    padding: 10px;
+    margin: 0;
+    margin-right: 35px;
+    width: 47%;
+    height: 355px;
+}
+
+#calendar {
+    padding: 20px;
+    background: white;
+    border-radius: 20px;
+    height: 375px;
+    width: 48.5%;
+}
+
+.content table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-radius: 20px;
+}
+
+.content th, td {
+    flex: 1;
+}
+
+#settings {
+    margin-left: 220px;
+}
+
+form#settings {
+    background-color: rgb(255, 255, 255, 0.65);
+}
+
+button#bttn {
+    background-color: blue;
+    color: #ffffff;
+    width: 7%;
+    text-align: center;
+}
+
+#delettte {
+    background-color: transparent;
+}
+
+#contact-box {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+    height: 375px;
+    width: 48.5%;
+    margin-right: 15px;
+}
+

@@ -1,0 +1,34 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: radial-gradient(56.88% 60.37% at 49.97% 83.43%, rgba(67, 121, 238, 0.6) 7.5%, rgba(240, 240, 240, 0.6) 100%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background-blur {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    background: rgba(217, 217, 217, 0.41);
+    backdrop-filter: blur(85px);
+    z-index: 1; /* Pastikan background blur berada di lapisan bawah */
+}
+
+.container {
+    z-index: 2;
+    margin-top: 50px;
+    max-height: 90%;
+    overflow-y: auto;
+}
+
+.container h3 {
+    margin-bottom: 30px;
+    font-weight: 750;
+}

@@ -1,0 +1,3479 @@
+{
+"substantif (sensus dan survei)":[{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "000":100,
+     "Pengkajian dan Pengusulan Kebijakan":"Penyiapan Kebijakan"
+     },{
+     "000":200,
+     "Pengkajian dan Pengusulan Kebijakan":"Masukan dan Dukungan dalam Penyusunan Kebijakan."
+     },{
+     "000":300,
+     "Pengkajian dan Pengusulan Kebijakan":"Pengembangan desain dan standardisasi"
+     },{
+     "000":400,
+     "Pengkajian dan Pengusulan Kebijakan":"Penetapan Norma, Standar, Prosedur dan Kriteria (NSPK)"
+     },{
+     "000":"SENSUS PENDUDUK, SENSUS PERTANIAN DAN SENSUS EKONOMI"
+     },{
+     "000":"000",
+     "Pengkajian dan Pengusulan Kebijakan":"PERENCANAAN"
+     }
+    ]
+   }
+  },
+ "KODE":{
+  "PS":"SS"
+  }
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":"010"
+    }
+   }
+  },
+ "Column4":"Master Plan dan Network planing"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":"020"
+    }
+   }
+  },
+ "Column4":"Perumusan dan Penyusunan Bahan"
+ },
+{
+ "Column4":"021",
+ "Column5":"Penyiapan bahan penyusunan rancangan sensus"
+ },
+{
+ "Column4":"022",
+ "Column5":"Penyusunan metode pencacahan sensus"
+ },
+{
+ "Column4":"023",
+ "Column5":"Penentuan volume sensus"
+ },
+{
+ "Column4":"024",
+ "Column5":"Penyusunan desain penarikan sampel"
+ },
+{
+ "Column4":"025",
+ "Column5":"Penyusunan Kerangka Sampel"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":"030"
+     },{
+     "000":100,
+     "Pengkajian dan Pengusulan Kebijakan":"PERSIAPAN KEGIATAN SENSUS "
+     }
+    ]
+   }
+  },
+ "Column4":"Studi pendahuluan (desk study)"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":110
+    }
+   }
+  },
+ "Column4":"Penyusunan Rancangan Organisasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":120
+    }
+   }
+  },
+ "Column4":"Penyusunan Kuesioner."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":130
+    }
+   }
+  },
+ "Column4":"Penyusunan Konsep dan Definisi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":140
+    }
+   }
+  },
+ "Column4":"Penyusunan Metodologi (organisasi, lapangan, ukuran statistik ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":150
+    }
+   }
+  },
+ "Column4":"Penyusunan Buku Pedoman (pencacahan, pengawasan dan pengolahan ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":160
+    }
+   }
+  },
+ "Column4":"Penyusunan Peta Wilayah Kerja dan Muatan Peta Wilayah."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":170
+    }
+   }
+  },
+ "Column4":"Penyusunan Pedoman Sosialisasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":180
+    }
+   }
+  },
+ "Column4":"Penyusunan Program Pengolahan (rule validasi pemeriksaan entri tabulasi)."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":190
+     },{
+     "000":200,
+     "Pengkajian dan Pengusulan Kebijakan":"PELATIHAN \/UJICOBA SENSUS "
+     }
+    ]
+   }
+  },
+ "Column4":"Koordinasi Intern\/ Ektern."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":210
+    }
+   }
+  },
+ "Column4":"Pelatihan Instruktur."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":220
+    }
+   }
+  },
+ "Column4":"Pelatihan Petugas."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":230
+    }
+   }
+  },
+ "Column4":"Pelatihan Petugas Pengolahan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":240
+    }
+   }
+  },
+ "Column4":"Perancangan Tabel."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":250
+    }
+   }
+  },
+ "Column4":"Pelaksanaan Ujicoba Kuesioner Sensus (meliputi reliabilitas kuesioner dan sistem en olahan ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":260
+     },{
+     "000":300,
+     "Pengkajian dan Pengusulan Kebijakan":"PELAKSANAAN LAPANGAN SENSUS "
+     }
+    ]
+   }
+  },
+ "Column4":"Pelaksanaan Ujicoba Kuesioner Metodologi Sensus (meliputi ujicoba pelaksanaan pencacahan, organisasi dan jumlah sampel ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":310
+    }
+   }
+  },
+ "Column4":"Listing."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":320
+    }
+   }
+  },
+ "Column4":"Pemilihan Sampel."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":330
+    }
+   }
+  },
+ "Column4":"Pengumpulan Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":340
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":350
+    }
+   }
+  },
+ "Column4":"Pengawasan Lapangan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":360
+     },{
+     "000":400,
+     "Pengkajian dan Pengusulan Kebijakan":"PENGOLAHAN SENSUS "
+     }
+    ]
+   }
+  },
+ "Column4":"Monitoring Kualitas."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":410
+    }
+   }
+  },
+ "Column4":"Pengelolaan Dokumen (penerimaan\/ pengiriman, en elom okkan batchin"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":420
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Dokumen dan Pengkodean editin codin"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":430
+    }
+   }
+  },
+ "Column4":"Perekaman Data (entri\/ scanner)."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":440
+    }
+   }
+  },
+ "Column4":"Tabulasi Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":450
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Tabulasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":460
+     },{
+     "000":500,
+     "Pengkajian dan Pengusulan Kebijakan":"ANALISIS DAN PENYAJIAN HASIL SENSUS"
+     }
+    ]
+   }
+  },
+ "Column4":"Laporan Konsistensi Tabulasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":510
+    }
+   }
+  },
+ "Column4":"Pembahasan Angka Hasil Pengolahan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":520
+    }
+   }
+  },
+ "Column4":"Penyusunan Angka Sementara."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":530
+    }
+   }
+  },
+ "Column4":"Penyusunan Angka Tetap."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":540
+    }
+   }
+  },
+ "Column4":"Penyusunan\/ Pembahasan Draft Publikasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":550
+    }
+   }
+  },
+ "Column4":"Analisis Data Sensus."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":560
+     },{
+     "000":600,
+     "Pengkajian dan Pengusulan Kebijakan":"DISEMINASI HASIL SENSUS"
+     }
+    ]
+   }
+  },
+ "Column4":"Penyusunan Diseminasi Hasil Sensus"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":610
+    }
+   }
+  },
+ "Column4":"Penyusun bahan Diseminasi"
+ },
+{
+ "Column4":"1) Leaflet, booklet"
+ },
+{
+ "Column4":"2) Website"
+ },
+{
+ "Column4":"3) Penyusunan CD dan sejenisnya"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":620
+    }
+   }
+  },
+ "Column4":"sosialisasi hasil Sensus melalui berbagai Media"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":630
+     },{
+     "000":"SURVEI"
+     },{
+     "000":"000",
+     "Pengkajian dan Pengusulan Kebijakan":"PERENCANAAN"
+     }
+    ]
+   }
+  },
+ "Column4":"Layanan Promosi Statistik",
+ "KODE":{
+  "PS":"VS"
+  }
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":"010"
+    }
+   }
+  },
+ "Column4":"Master Plan dan Network planing"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":"020"
+    }
+   }
+  },
+ "Column4":"Perumusan dan Penyusunan Bahan"
+ },
+{
+ "Column4":"021",
+ "Column5":"Penyiapan bahan penyusunan rancangan survei"
+ },
+{
+ "Column4":"022",
+ "Column5":"Penyusunan metode pencacahan survei"
+ },
+{
+ "Column4":"023",
+ "Column5":"Penentuan volume survei"
+ },
+{
+ "Column4":"024",
+ "Column5":"Penyusunan desain penarikan sampel"
+ },
+{
+ "Column4":"025",
+ "Column5":"Penyusunan Kerangka Sampel"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":"030"
+     },{
+     "000":100,
+     "Pengkajian dan Pengusulan Kebijakan":"PERSIAPAN SURVEI"
+     }
+    ]
+   }
+  },
+ "Column4":"Studi pendahuluan (desk study)"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":110
+    }
+   }
+  },
+ "Column4":"Rancangan Organisasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":120
+    }
+   }
+  },
+ "Column4":"Penyusunan Kuesioner."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":130
+    }
+   }
+  },
+ "Column4":"Penyusunan Konsep dan Definisi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":140
+    }
+   }
+  },
+ "Column4":"Penyusunan Metodologi (organisasi, lapangan, ukuran statistik ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":150
+    }
+   }
+  },
+ "Column4":"Penyusunan Buku Pedoman (pencacahan, pengawasan pengolahan ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":160
+    }
+   }
+  },
+ "Column4":"Penyusunan Peta Wilayah Kerja dan Muatan Peta Wilayah."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":170
+    }
+   }
+  },
+ "Column4":"Penyusunan Pedoman Sosialisasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":180
+    }
+   }
+  },
+ "Column4":"Penyusunan Program Pengolahan (rule validasi emeriksaan entri tabulasi ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":190
+     },{
+     "000":200,
+     "Pengkajian dan Pengusulan Kebijakan":"PELATIHAN \/UJICOBA"
+     }
+    ]
+   }
+  },
+ "Column4":"Koordinasi Intern\/ Ektern."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":210
+    }
+   }
+  },
+ "Column4":"Pelatihan Instruktur."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":220
+    }
+   }
+  },
+ "Column4":"Pelatihan Petugas."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":230
+    }
+   }
+  },
+ "Column4":"Pelatihan Petugas Pengolahan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":240
+    }
+   }
+  },
+ "Column4":"Perancangan Tabel."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":250
+    }
+   }
+  },
+ "Column4":"Pelaksanaan Ujicoba Kuesioner survei (meliputi reliabilitas kuesioner dan sistem en olahan ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":260
+     },{
+     "000":300,
+     "Pengkajian dan Pengusulan Kebijakan":"PELAKSANAAN LAPANGAN"
+     }
+    ]
+   }
+  },
+ "Column4":"Pelaksanaan Ujicoba Kuesioner Metodologi survei (meliputi ujicoba pelaksanaan pencacahan, or anisasi dan jumlah sampel ."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":310
+    }
+   }
+  },
+ "Column4":"Listing."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":320
+    }
+   }
+  },
+ "Column4":"Pemilihan Sampel."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":330
+    }
+   }
+  },
+ "Column4":"Pengumpulan Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":340
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":350
+    }
+   }
+  },
+ "Column4":"Pengawasan Lapangan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":360
+     },{
+     "000":400,
+     "Pengkajian dan Pengusulan Kebijakan":"PENGOLAHAN"
+     }
+    ]
+   }
+  },
+ "Column4":"Monitoring Kualitas."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":410
+    }
+   }
+  },
+ "Column4":"Pengelolaan Dokumen (penerimaan\/ pengiriman, en elom okkan batchin"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":420
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Dokumen dan Pengkodean editin codin"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":430
+    }
+   }
+  },
+ "Column4":"Perekaman Data (entri\/ scanner)."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":440
+    }
+   }
+  },
+ "Column4":"Tabulasi Data."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":450
+    }
+   }
+  },
+ "Column4":"Pemeriksaan Tabulasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":460
+     },{
+     "000":500,
+     "Pengkajian dan Pengusulan Kebijakan":"ANALISIS DAN PENYAJIAN HASIL SURVEI"
+     }
+    ]
+   }
+  },
+ "Column4":"Laporan Konsistensi Tabulasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":510
+    }
+   }
+  },
+ "Column4":"Pembahasan Angka Hasil Pengolahan."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":520
+    }
+   }
+  },
+ "Column4":"Penyusunan Angka Sementara."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":530
+    }
+   }
+  },
+ "Column4":"Penyusunan Angka Proyeksi\/ Rarnalan"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":540
+    }
+   }
+  },
+ "Column4":"Penyusunan Angka Tetap."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":550
+    }
+   }
+  },
+ "Column4":"Penyusunan\/Pembahasan Draft Publikasi."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":560
+    }
+   }
+  },
+ "Column4":"Analisis Data Survei."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":570
+     },{
+     "000":600,
+     "Pengkajian dan Pengusulan Kebijakan":"DISEMINASI HASIL SURVEI"
+     }
+    ]
+   }
+  },
+ "Column4":"Penyusunan Diseminasi Hasil Survei."
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":610
+    }
+   }
+  },
+ "Column4":"Penyusun bahan Diseminasi"
+ },
+{
+ "Column4":"1) Leaflet, booklet"
+ },
+{
+ "Column4":"2) Website"
+ },
+{
+ "Column4":"3) Penyusunan CD dan sejenisnya"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":{
+    "Pengkajian dan Pengusulan Kebijakan":620
+    }
+   }
+  },
+ "Column4":"Sosialisasi hasil Survei melalui berbagai Media"
+ },
+{
+ "KLASIFIKASI":{
+  "PERUMUSAN KEBIJAKAN Dl BIDANG STATISTIK MELIPUTI:":{
+   "METODOLOGI DAN INFORMASI STATISTIK, STATISTIK SOSIAL, STATISTIK PRODUKSI, STATISTIK DISTRIBUSI DAN JASA, NERACA DAN ANALISA STATISTIK":[{
+     "Pengkajian dan Pengusulan Kebijakan":630
+     },{
+     "000":"KONSOLIDASI DATA STATISTIK"
+     },{
+     "000":"000",
+     "Pengkajian dan Pengusulan Kebijakan":"KOMPILASI DATA"
+     },{
+     "000":100,
+     "Pengkajian dan Pengusulan Kebijakan":"ANALISIS DATA"
+     },{
+     "000":200,
+     "Pengkajian dan Pengusulan Kebijakan":"PENYUSUNAN PUBLIKASI EVALUASI DAN PELAPORAN SENSUS, SURVEI DAN KONSOLIDASI DATA"
+     },{
+     "000":"EVALUASI DAN PELAPORAN SENSUS, SURVEI DAN KONSOLIDASI DATA"
+     }
+    ]
+   }
+  },
+ "Column4":"Layanan Promosi Statistik",
+ "KODE":{
+  "PS":["KS","ES"
+   ]
+  }
+ }],
+"Fasilitatif":[
+ null,
+ null,
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "KODE",
+  "Column4": "KLASIFIKASI"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "KU ",
+  "Column4": "000",
+  "Column5": "PELAKSANAAN ANGGARAN"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Ketentuan\/Peraturan Menteri Keuangan Menyangkut Pelaksanaan dan Penatausahaan."
+ },
+ {
+  "Column4": 100,
+  "Column5": "REALISASI PENDAPATAN \/ PENERIMAAN NEGARA"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Surat Setoran Pajak (SSP)."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Surat Setoran Bukan Pajak (SSBP)."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Bukti Penerimaan Bukan Pajak (PNBP)."
+ },
+ {
+  "Column5": 140,
+  "Column6": "Dana Bagi Hasil yang bersumber dari Pajak:"
+ },
+ {
+  "Column6": 141,
+  "Column7": "Pajak Bumi Bangunan."
+ },
+ {
+  "Column6": 142,
+  "Column7": "Bea Perolehan Hak Atas Tanah dan Bangunan (BPHTB)."
+ },
+ {
+  "Column6": 143,
+  "Column7": "Pajak Penghasilan (Pph) Pasal 21, 25 dan 29."
+ },
+ {
+  "Column5": 150,
+  "Column6": "Bukti Setor Sisa Anggaran Lebih atau Bukti Setor Pengembalian Belanja (SSPB)."
+ },
+ {
+  "Column5": 160,
+  "Column6": "Bunga dan\/ atau Jasa Giro pada Bank."
+ },
+ {
+  "Column5": 170,
+  "Column6": "Piutang Negara."
+ },
+ {
+  "Column5": 180,
+  "Column6": "Pengelolaan Investasi dan Penyertaan Modal."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENGELOLAAN PERBENDAHARAAN"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Pejabat Penguji dan Penandatanganan SPM."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Bendahara Penerimaan."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Bendahara Pengeluaran."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Kartu Pengawasan Pembayaran Penghasilan Pegawai (KP4)."
+ },
+ {
+  "Column5": 250,
+  "Column6": "Pengembalian Belanja."
+ },
+ {
+  "Column5": 260,
+  "Column6": "Pembukuan Anggaran:"
+ },
+ {
+  "Column6": 261,
+  "Column7": "Buku Kas Umum (BKU)."
+ },
+ {
+  "Column6": 262,
+  "Column7": "Buku Kas Pembantu."
+ },
+ {
+  "Column6": 263,
+  "Column7": "Kartu Realisasi Anggaran dan Pengawasan Realisasi Anggaran."
+ },
+ {
+  "Column5": 270,
+  "Column6": "Berita Acara Pemeriksanaan Kas."
+ },
+ {
+  "Column5": 280,
+  "Column6": "Daftar Gaji\/ Kartu Gaji."
+ },
+ {
+  "Column4": 300,
+  "Column5": "PENGELUARAN ANGGARAN"
+ },
+ {
+  "Column5": "Naskah-naskah yang berkaitan dengan pelaksanaan anggaran pengeluaran mulai dari SPP-GU, SPP-LS, SPP-UP, SPP-UP,SPP-TUP, SPM, SP2D, Juklak mekanisme pengelolaan APBN serta bahan nota keuangan"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Belanja Bahan."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Belanja Barang."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Belanja Jasa (Konsultan, Profesi)."
+ },
+ {
+  "Column5": 340,
+  "Column6": "Belanja Perjalanan."
+ },
+ {
+  "Column5": 350,
+  "Column6": "Belanja Pegawai."
+ },
+ {
+  "Column5": 360,
+  "Column6": "Belanja Paket Meeting Dalam Kota."
+ },
+ {
+  "Column5": 370,
+  "Column6": "Belanja Paket Meeting Luar Kota."
+ },
+ {
+  "Column5": 380,
+  "Column6": "Belanja Akun Kombinasi."
+ },
+ {
+  "Column4": 400,
+  "Column5": "VERIFIKASI ANGGARAN"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Surat Permintaan Pembayaran (SPP) beserta lampirannya."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Surat Perintah Membayar (SPM), Surat perintah Pencairan dana (SP2D)."
+ },
+ {
+  "Column4": 500,
+  "Column5": "PELAPORAN"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Akuntansi Keuangan:"
+ },
+ {
+  "Column6": 511,
+  "Column7": "Berita Acara Pemeriksaan Kas"
+ },
+ {
+  "Column6": 512,
+  "Column7": "Kas\/Register Penutupan Kas."
+ },
+ {
+  "Column6": 513,
+  "Column7": "Laporan Pendapatan Negara."
+ },
+ {
+  "Column6": 514,
+  "Column7": " Arsip Data Komputer (ADK)."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Pengumpulan, Pemantauan, Evaluasi dan Laporan Keuangan:"
+ },
+ {
+  "Column6": 521,
+  "Column7": " Keadaan Kredit Anggaran (LKKA) Bulanan\/ Triwulanan \/ Semesteran"
+ },
+ {
+  "Column7": "a. Laporan Realisasi Anggaran (RKA);"
+ },
+ {
+  "Column7": "b. Neraca;"
+ },
+ {
+  "Column7": "c. Laporan Arus Kas;"
+ },
+ {
+  "Column7": "d. Catatan Atas Laporan Keuangan (CALK)"
+ },
+ {
+  "Column5": 530,
+  "Column6": "Rekonsiliasi Data Laporan Keuangan."
+ },
+ {
+  "Column4": 600,
+  "Column5": "BANTUAN PINJAMAN LUAR NEGERI"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Permohonan Pinjaman Luar Negeri (Blue Book)."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Dokumen Kesanggupan negara donor (Gray Book)."
+ },
+ {
+  "Column5": 630,
+  "Column6": "Memorandum of Understand (MOU) dan dokumen sejenisnya."
+ },
+ {
+  "Column5": 640,
+  "Column6": "Loan Agreement Pinjaman\/Hibah Luar Negeri (PHLN), legal opinion, surat-menyurat dengan lender, konsultan."
+ },
+ {
+  "Column5": 650,
+  "Column6": "Alokasi dan Relokasi Penggunaan Dana Pinjaman\/Hibah Luar Negeri."
+ },
+ {
+  "Column5": 660,
+  "Column6": "Penarikan Dana Bantuan Luar Negeri (BLN)."
+ },
+ {
+  "Column6": 661,
+  "Column7": "Aplikasi Penarikan Dana Bantuan Luar Negeri (BLN) berikut lampirannya:"
+ },
+ {
+  "Column7": "a. Reimbursment;"
+ },
+ {
+  "Column7": "b. Direct Payment\/ Transfer Procedure;"
+ },
+ {
+  "Column7": "c. Special Comitment\/L\/C Opening;"
+ },
+ {
+  "Column7": "d. Special Account\/Imprest Fund."
+ },
+ {
+  "Column6": 662,
+  "Column7": "Otorisasi Penarikan Dana (Payment Advice)."
+ },
+ {
+  "Column6": 663,
+  "Column7": "Replenisment (permintaan penarikan dana dari negara donor) meliputi:"
+ },
+ {
+  "Column7": "a. No Objection Letter (NOL);"
+ },
+ {
+  "Column7": "b. Notification of Contract;"
+ },
+ {
+  "Column7": "c. Withdrawal Authorization (WA);"
+ },
+ {
+  "Column7": "d. Statement of Expenditur (SE)."
+ },
+ {
+  "Column5": 670,
+  "Column6": "Realisasi Pencairan Dana Bantuan Luar Negeri:"
+ },
+ {
+  "Column6": "a. Surat Perintah Pencairan Dana (SP2D)"
+ },
+ {
+  "Column6": "b. SPM beserta lampirannya: SPP, Kontrak, BA dan data pendukung lainnya."
+ },
+ {
+  "Column5": 680,
+  "Column6": "Ketentuan\/ Peraturan yang Menyangkut Bantuan\/ Pinjaman Luar Negeri."
+ },
+ {
+  "Column5": 690,
+  "Column6": "Laporan-Laporan Pelaksanaan Bantuan\/ Pinjaman Luar Negeri."
+ },
+ {
+  "Column6": 691,
+  "Column7": "StaffAppraisal Report."
+ },
+ {
+  "Column6": 692,
+  "Column7": "Report\/ Laporan yang terdiri dari:"
+ },
+ {
+  "Column7": "a. Progress Report;"
+ },
+ {
+  "Column7": "b. Monthly Report;"
+ },
+ {
+  "Column7": "c. Quartely Report."
+ },
+ {
+  "Column6": 693,
+  "Column7": "Laporan Hutang Negara:"
+ },
+ {
+  "Column7": "a. Laporan Pembayaran Hutang Negara;"
+ },
+ {
+  "Column7": "b. Laporan Posisi Hutang Negara."
+ },
+ {
+  "Column6": 694,
+  "Column7": "Completion Report\/Annual Report."
+ },
+ {
+  "Column4": 700,
+  "Column5": "PENGELOLA APBN \/ DANA PINJAMAN \/ HIBAH LUAR NEGERI (PHLN)"
+ },
+ {
+  "Column5": 710,
+  "Column6": "Keputusan Kepala BPS tentang Penetapan:"
+ },
+ {
+  "Column6": 711,
+  "Column7": "Kuasa Pengguna Anggaran (KPA), Pejabat Pembuat Komitmen (PPK);"
+ },
+ {
+  "Column6": 712,
+  "Column7": "Pejabat Pembuat Daftar Gaji ;"
+ },
+ {
+  "Column6": 713,
+  "Column7": "Penandatangan SPM•,"
+ },
+ {
+  "Column6": 714,
+  "Column7": "Bendahara Penerimaan\/ Pengeluaran, Pengelola Barang."
+ },
+ {
+  "Column4": 800,
+  "Column5": "SISTEM AKUNTANSI INSTANSI (SAI)"
+ },
+ {
+  "Column5": 810,
+  "Column6": "Manual Implementasi Sistem Akuntansi Instansi (SAI)."
+ },
+ {
+  "Column5": 820,
+  "Column6": "Arsip Data Komputer dan Berita Acara Rekonsiliasi."
+ },
+ {
+  "Column5": 830,
+  "Column6": "a. Daftar Transaksi (DT), Pengeluaran (PK), Penerimaan (PN)."
+ },
+ {
+  "Column6": "b. Dokumen Sumber (DS), Bukti Jurnal (BJ) Surat Tanda Setor (STS)."
+ },
+ {
+  "Column6": "c. Surat Setor Bukan Pajak (SSBP), Surat Perintah Pencairan Dana (SP2D)."
+ },
+ {
+  "Column6": "d. SPM dalam Daftar Ringkasan Pengembalian dan Potongan dari Pengeluaran (SPDR)."
+ },
+ {
+  "Column5": 840,
+  "Column6": "Listing (Daftar Rekaman Penerimaan) Buku Temuan dan Tindakan Lain (SAI)."
+ },
+ {
+  "Column5": 850,
+  "Column6": "Laporan Realisasi Bulanan SAI."
+ },
+ {
+  "Column5": 860,
+  "Column6": "Laporan Realisasi Triwulanan SAI dari Unit Akuntansi Wilayah (UAW) dan Gabungan semua UAW\/ Unit Akuntansi Kantor Pusat Instansi (UAKPI)."
+ },
+ {
+  "Column4": 900,
+  "Column5": "PERTANGGUNGJAWABAN KEUANGAN NEGARA"
+ },
+ {
+  "Column5": 910,
+  "Column6": "Laporan Hasil Pemeriksaan atas Laporan Keuangan oleh BPK RI."
+ },
+ {
+  "Column5": 920,
+  "Column6": "Hasil Pengawasan dan Pemeriksaan Internal."
+ },
+ {
+  "Column5": 930,
+  "Column6": "Laporan Aparat Pemeriksa Fungsional:"
+ },
+ {
+  "Column6": 931,
+  "Column7": "Laporan Hasil Pemeriksaan (LHP)."
+ },
+ {
+  "Column6": 932,
+  "Column7": "Memorandum Hasil Pemeriksaaan (MHP)."
+ },
+ {
+  "Column6": 933,
+  "Column7": "Tindak Lanjut\/Tanggapan LHP."
+ },
+ {
+  "Column5": 940,
+  "Column6": "Dokumentasi Penyelesaian Keuangan Negara:"
+ },
+ {
+  "Column6": 941,
+  "Column7": "Tuntutan Perbendaharaan."
+ },
+ {
+  "Column6": 942,
+  "Column7": "Tuntutan Ganti Rugi."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "2. KEPEGAWAIAN"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "KP ",
+  "Column4": "000",
+  "Column5": "FORMASI PEGAWAI"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Usulan dari Unit Kerja."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Usulan Permintaan Formasi kepada Menpan dan Kepala BKN."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Persetujuan Menpan."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Penetapan Formasi."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Penetapan Formasi Khusus."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PENGADAAN DAN PENGANGKATAN PEGAWAI"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Proses Penerimaan Pegawai:"
+ },
+ {
+  "Column6": 111,
+  "Column7": "Pengumuman."
+ },
+ {
+  "Column6": 112,
+  "Column7": "Seleksi Administrasi."
+ },
+ {
+  "Column6": 113,
+  "Column7": "Pemanggilan Peserta Tes."
+ },
+ {
+  "Column6": 114,
+  "Column7": "Pelaksanaan Ujian (tertulis, psikotes, wawancara)."
+ },
+ {
+  "Column6": 115,
+  "Column7": "Keputusan Hasil Ujian."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Penetapan Pengumuman Kelulusan."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Berkas Lamaran yang Tidak Diterima."
+ },
+ {
+  "Column5": 140,
+  "Column6": "Nota Usul dan Kelengkapan Penetapan NIP."
+ },
+ {
+  "Column5": 150,
+  "Column6": "Nota Usul Pengangkatan CPNS menjadi PNS."
+ },
+ {
+  "Column5": 160,
+  "Column6": "Nota Usul Pengangkatan CPNS menjadi PNS Lebih 2 Tahun."
+ },
+ {
+  "Column5": 170,
+  "Column6": "SK CPNS\/PNS Kolektif."
+ },
+ {
+  "Column4": 200,
+  "Column5": "BERKAS PEGAWAI TIDAK TETAP\/MITRA STATISTIK"
+ },
+ {
+  "Column4": 300,
+  "Column5": "PEMBINAAN KARIR PEGAWAI"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Diklat Kursus\/Tugas Belajar\/Ujian Dinas\/lzin Belajar Pegawai:"
+ },
+ {
+  "Column6": 311,
+  "Column7": "Surat Perintah\/Surat Tugas\/ SK\/ Surat Izin."
+ },
+ {
+  "Column6": 312,
+  "Column7": "Laporan Kegiatan Pengembangan Diri."
+ },
+ {
+  "Column6": 313,
+  "Column7": "Surat Tanda Tamat Pendidikan dan Pelatihan."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Ujian Kompetensi"
+ },
+ {
+  "Column6": 321,
+  "Column7": "Assesment Tes Pegawai."
+ },
+ {
+  "Column6": 322,
+  "Column7": "Pemetaan\/Mapping Talent Pegawai."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Daftar Penilaian Pelaksanaan Pekerjaan (DP3) dan Sasaran Kinerja Pegawai (SKP)."
+ },
+ {
+  "Column5": 340,
+  "Column6": "Pakta Integritas Pegawai."
+ },
+ {
+  "Column5": 350,
+  "Column6": "Laporan Hasil Kekayaan Penyelenggaraan Negara (LHKPN)."
+ },
+ {
+  "Column5": 360,
+  "Column6": "Daftar Usul Penetapan Angka Kredit Fungsional."
+ },
+ {
+  "Column5": 370,
+  "Column6": "Disiplin Pegawai:"
+ },
+ {
+  "Column6": 371,
+  "Column7": "Daftar Hadir."
+ },
+ {
+  "Column6": 372,
+  "Column7": "Rekapitulasi Daftar Hadir."
+ },
+ {
+  "Column5": 380,
+  "Column6": "Berkas Hukuman Disiplin."
+ },
+ {
+  "Column5": 390,
+  "Column6": "Penghargaan dan Tanda Jasa (Satya Lencana\/Bintang Jasa)."
+ },
+ {
+  "Column4": 400,
+  "Column5": "PENYELESAIAN PENGELOLAAN KEBERATAN PEGAWAI"
+ },
+ {
+  "Column4": 500,
+  "Column5": "MUTASI PEGAWAI"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Alih Status, Pindah Instansi, Pindah Wilayah Kerja, Diperbantukan, Dipekerjakan, Penugasan Sementara, Mutasi Antar Perwakilan, Mutasi ke dan dari perwakilan Sementara, Mutasi Antar Unit."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Nota Persetujuan\/Pertimbangan Kepala BKN."
+ },
+ {
+  "Column5": 530,
+  "Column6": "Mutasi Keluarga:"
+ },
+ {
+  "Column6": 531,
+  "Column7": "Surat Izin Pernikahan\/ Perceraian."
+ },
+ {
+  "Column6": 532,
+  "Column7": "Surat Penolakan Izin Pernikahan\/Perceraian."
+ },
+ {
+  "Column6": 533,
+  "Column7": "Akte Nikah\/ Cerai."
+ },
+ {
+  "Column6": 534,
+  "Column7": "Surat Keterangan Meninggal Dunia."
+ },
+ {
+  "Column5": 540,
+  "Column6": "Usul Kenaikan Pangkat\/Golongan\/Jabatan."
+ },
+ {
+  "Column5": 550,
+  "Column6": "Usul Pengangkatan dan Pemberhentian dalam Jabatan Struktural\/ Fungsional."
+ },
+ {
+  "Column5": 560,
+  "Column6": "Usul Penetapan Perubahan Data Dasar\/ Status\/ Kedudukan Hukum Pegawai."
+ },
+ {
+  "Column5": 570,
+  "Column6": "Peninjauan Masa Kerja."
+ },
+ {
+  "Column5": 580,
+  "Column6": "Berkas Baperjakat."
+ },
+ {
+  "Column4": 600,
+  "Column5": "ADMINISTRASI PEGAWAI"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Dokumentasi Identitas Pegawai:"
+ },
+ {
+  "Column6": 611,
+  "Column7": "Usul Penetapan Karpeg\/KPE\/Karis\/Karsu."
+ },
+ {
+  "Column6": 612,
+  "Column7": "Keanggotaaan Organisasi Profesi\/ Kedinasan."
+ },
+ {
+  "Column6": 613,
+  "Column7": "Laporan Pajak Penghasilan Pribadi (LP2P)."
+ },
+ {
+  "Column6": 614,
+  "Column7": "Keterangan Penerimaan Penghasilan Pegawai (KP4)."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Berkas Kepegawaian dan Daftar Urut Kepangkatan (DUK),"
+ },
+ {
+  "Column5": 630,
+  "Column6": "Berkas Perorangan Pegawai Negeri Sipil:"
+ },
+ {
+  "Column6": "a. Nota Penetapan NIP dan kelengkapannya;"
+ },
+ {
+  "Column6": "b. Nota Persetujuan\/Pertimbangan Kepala BKN;"
+ },
+ {
+  "Column6": "c. SK Pengangkatan CPNS•,"
+ },
+ {
+  "Column6": "d. Hasil Pengujian Kesehatan;"
+ },
+ {
+  "Column6": "e. SK Pengangkatan PNS;"
+ },
+ {
+  "Column6": "f. SK Peninjauan Masa Kerja;"
+ },
+ {
+  "Column6": "g. SK Kenaikan Pangkat;"
+ },
+ {
+  "Column6": "h. Surat Pernyataan Melaksanakan Tugas \/Menduduki Jabatan\/ Surat Pernyataan Pelantikan;"
+ },
+ {
+  "Column6": "i. SK Pengangkatan Dalam atau Pemberhentian Dari Jabatan Struktural\/Fungsiona1;"
+ },
+ {
+  "Column6": "j. SK Perpindahan Wilayah Kerja;"
+ },
+ {
+  "Column6": "k. SK Perpindahan Antar Instansi;"
+ },
+ {
+  "Column6": "1. SK Cuti di Luar Tanggungan Negara (CLTN);"
+ },
+ {
+  "Column6": "m. Berita Acara Pemeriksaan;"
+ },
+ {
+  "Column6": "n. SK Hukuman Jabatan\/Hukuman Disiplin PNS;"
+ },
+ {
+  "Column6": "o. SK Perbantuan\/Dipekerjakan Diluar Instansi Induk;"
+ },
+ {
+  "Column6": "p. SK Penarikan Kembali dan Perbantuan\/Dipekerjakan;"
+ },
+ {
+  "Column6": "q. SK Pemberian Uang Tunggu; SK Pembebasan Dari Jabatan Organik Karena Diangkat Sebagai Pejabat Negara;"
+ },
+ {
+  "Column6": "s. SK Pengalihan PNS•,"
+ },
+ {
+  "Column6": "t. SK Pemberhentian Sebagai PNS;"
+ },
+ {
+  "Column6": "u. SK Pemberhentian Sementara;"
+ },
+ {
+  "Column6": "v. Surat Keterangan Pernyataan Hilang;"
+ },
+ {
+  "Column6": "w. Surat Keterangan Kembalinya PNS Yang Dinyatakan Hilang;"
+ },
+ {
+  "Column6": "x. SK Penggantian Nama;"
+ },
+ {
+  "Column6": "y. Surat Perbaikan Tanggal Tahun Kelahiran;"
+ },
+ {
+  "Column6": "z. Akta Nikah\/ Cerai;"
+ },
+ {
+  "Column6": "aa. Akta Kelahiran;"
+ },
+ {
+  "Column6": "bb. Isian Formulir PUPNS;"
+ },
+ {
+  "Column6": "cc. Berita Acara Pengambilan Sumpah\/Janji PNS dari Jabatan;"
+ },
+ {
+  "Column6": "dd. Surat Permohonan Menjadi Anggota Parpol;"
+ },
+ {
+  "Column6": "ee. Surat Keterangan Mutasi Keluarga;"
+ },
+ {
+  "Column6": "ff. Surat Keterangan Meninggal Dunia;"
+ },
+ {
+  "Column6": "gg. Surat Keterangan Peningkatan Pendidikan;"
+ },
+ {
+  "Column6": "hh. Penetapan Angka Kredit Jabatan Fungsional;"
+ },
+ {
+  "Column6": "ii. Surat Keterangan Hasil Penelitian Khusus;"
+ },
+ {
+  "Column6": "jj. Surat Pemberitahuan Kenaikan Gaji Berkala;"
+ },
+ {
+  "Column6": "kk. Surat Tugas\/lzin Belajar Dalam\/Luar Negeri;"
+ },
+ {
+  "Column6": "ll. Surat Izin Bepergian ke Luar Negeri;"
+ },
+ {
+  "Column6": "mm. Kartu Pendaftaran Ulang (Kardaf) PNS;"
+ },
+ {
+  "Column6": "nn. Ijasah\/ Sertifikat;"
+ },
+ {
+  "Column6": "00. SK Penempatan\/ Penarikan Pegawai;"
+ },
+ {
+  "Column6": "pp. SK Pengangkatan Pada Jabatan Diluar Instansi"
+ },
+ {
+  "Column6": "qq. Surat Pertimbangan Status TNI;"
+ },
+ {
+  "Column6": "rr. SK Pengaktifan Kembali Sebagai PNS;"
+ },
+ {
+  "Column6": "SS. Surat Pernyataan Pengunduran Diri Dari Jabatan Organik Karena Dicalonkan Sebagai Kepala\/Wakil Kepala Daerah."
+ },
+ {
+  "Column5": 640,
+  "Column6": "Berkas Perseorangan Pejabat Negara:"
+ },
+ {
+  "Column6": 641,
+  "Column7": "Kepala BPS;"
+ },
+ {
+  "Column6": 642,
+  "Column7": "Pejabat Negara Lain yang ditentukan oleh Undang-Undang;"
+ },
+ {
+  "Column5": 650,
+  "Column6": "Surat Perintah Dinas\/ Surat Tugas."
+ },
+ {
+  "Column5": 660,
+  "Column6": "Berkas Cuti Pegawai:"
+ },
+ {
+  "Column6": 661,
+  "Column7": "Cuti Sakit."
+ },
+ {
+  "Column6": 662,
+  "Column7": "Cuti Bersalin."
+ },
+ {
+  "Column6": 663,
+  "Column7": "Cuti Tahunan."
+ },
+ {
+  "Column6": 664,
+  "Column7": "Cuti Alasan Penting."
+ },
+ {
+  "Column6": 665,
+  "Column7": "Cuti Luar Tanggungan Negara (CTLN)."
+ },
+ {
+  "Column4": 700,
+  "Column5": "KESEJAHTERAAN PEGAWAI"
+ },
+ {
+  "Column5": 710,
+  "Column6": "Berkas Tentang Layanan Tunjangan\/ Gaji."
+ },
+ {
+  "Column5": 720,
+  "Column6": "Berkas Tentang Layanan Pemeliharaan Kesehatan Pegawai."
+ },
+ {
+  "Column5": 730,
+  "Column6": "Berkas Tentang Layanan Asuransi Pegawai."
+ },
+ {
+  "Column5": 740,
+  "Column6": "Berkas Tentang Layanan Bantuan Sosial."
+ },
+ {
+  "Column5": 750,
+  "Column6": "Berkas Tentang Layanan Olahraga Dan Rekreasi."
+ },
+ {
+  "Column5": 760,
+  "Column6": "Berkas Tentang Layanan Pengurusan Jenasah."
+ },
+ {
+  "Column5": 770,
+  "Column6": "Berkas Tentang Layanan Organisasi Non Kedinasan (Korpri, Dharma Wanita, Koperasi)."
+ },
+ {
+  "Column4": 800,
+  "Column5": "PEMBERHENTIAN PEGAWAI TANPA HAK PENSIUN"
+ },
+ {
+  "Column4": 900,
+  "Column5": "USUL PEMBERHDNTIAN DAN PENETAPAN PENSIUN PEGAWAI\/JANDA\/DUDA & PNS YANG TEWAS"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "3. PERENCANAAN (PR)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "PR ",
+  "Column4": "PERENCANAAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "POKOK-POKOK KEBIJAKAN DAN STRATEGI PEMBANGUNAN"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Pengumpulan Data."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Rencana Pembangunan Jangka Panjang (RPJP)."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Rencana Pembangunan Jangka Panjang (RPJP)."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Rencana Kerja Pemerintah (RKP)."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Penyelenggaraan Musyawarah Perencanaan Pembangunan (Musrenbang)."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PENYUSUNAN RENCANA"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Rencana Kegiatan Teknis."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Rencana Kegiatan Non Teknis."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Keterpaduan Rencana Teknis dan Non teknis."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PROGRAM KERJA TAHUNAN"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Usulan Unit Kerja beserta data pendukungnya."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Program Kerja Tahunan Unit Kerja."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Program Kerja Tahunan Instansi\/Lembaga."
+ },
+ {
+  "Column4": 300,
+  "Column5": "RENCANA ANGGARAN PENDAPATAN DAN BELANJA NEGARA (RAPBN)"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Penyusunan RAPBN"
+ },
+ {
+  "Column6": 311,
+  "Column7": "Arah kebijakan Umum, Strategi, Prioritas dan Renstra:"
+ },
+ {
+  "Column7": "a. Rencana Kerja;"
+ },
+ {
+  "Column7": "b. Rencana Kerja Pemerintah."
+ },
+ {
+  "Column6": 312,
+  "Column7": "Rencana Kerja dan Anggaran Kementrian\/ Lembaga (RKAKL)."
+ },
+ {
+  "Column6": 313,
+  "Column7": "Rencana Satuan Anggaran Per Satuan Kerja (SAPSK), Satuan Rincian Alokasi Anggaran"
+ },
+ {
+  "Column5": 320,
+  "Column6": "Penyampaian APBN kepada DPR RI"
+ },
+ {
+  "Column6": 321,
+  "Column7": "Nota Keuangan pemerintah dan Rancangan Undang-Undang RAPBN:"
+ },
+ {
+  "Column7": "a. Nota Keuangan Pemerintah;"
+ },
+ {
+  "Column7": "b. Materi RAPBN dari Lembaga Negara dan Badan Pemerintah (RASKIP)."
+ },
+ {
+  "Column6": 322,
+  "Column7": "Pembahasan RAPBN oleh Komisi DPR RI."
+ },
+ {
+  "Column6": 323,
+  "Column7": "Risalah Rapat Dengar Pendapat dengan DPR RI."
+ },
+ {
+  "Column6": 324,
+  "Column7": "Nota Jawaban DPR RI."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Undang-Undang Anggaran pendapatan dan Belanja Negara (APBN) dan Rencana Pembangunan Tahunan (REPETA)."
+ },
+ {
+  "Column4": 400,
+  "Column5": "PENYUSUNAN ANGGARAN PENDAPATAN NEGARA (APBN)"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Ketetapan Pagu Indikatif\/ Pagu Sementara."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Ketetapan Pagu Definitif."
+ },
+ {
+  "Column5": 430,
+  "Column6": "Rencana Kerja Anggaran (RKA) Lembaga Negara dan Badan Pernerintah (LNBP)."
+ },
+ {
+  "Column5": 440,
+  "Column6": "Daftar Isian Pelaksanaan Anggaran (DIPA) dan Revisinya."
+ },
+ {
+  "Column5": 450,
+  "Column6": "Petunjuk Operasional Kegiatan (POK) dan Revisinya."
+ },
+ {
+  "Column5": 460,
+  "Column6": "Petunjuk Teknis Tata Laksana Keterpaduan Kegiatan dan Pengelolaan Anggaran."
+ },
+ {
+  "Column5": 470,
+  "Column6": "Target Penerimaan Negara Bukan Pajak."
+ },
+ {
+  "Column4": 500,
+  "Column5": "PENYUSUNAN STANDAR HARGA MONITORING PROGRAM"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Pedoman Pengumpulan dan Pengolahan Data Standar Harga."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Pedoman Teknis Monitoring Program dan Kegiatan."
+ },
+ {
+  "Column5": 530,
+  "Column6": "Pedoman Teknis Evaluasi dan Pelaporan Program."
+ },
+ {
+  "Column4": 600,
+  "Column5": "LAPORAN"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Laporan Khusus."
+ },
+ {
+  "Column6": 611,
+  "Column7": "Pemantauan Prioritas.",
+  "Column8": "Pemantauan Prioritas."
+ },
+ {
+  "Column6": 612,
+  "Column7": "Laporan Pelaksanaan Kegiatan Atas Permintaan Eksternal.",
+  "Column8": "Laporan Pelaksanaan Kegiatan Atas Permintaan Eksternal."
+ },
+ {
+  "Column6": 613,
+  "Column7": "Laporan Atas Pelaksanaan Kegiatan\/ Program Tertentu .",
+  "Column8": "Laporan Atas Pelaksanaan Kegiatan\/ Program Tertentu ."
+ },
+ {
+  "Column6": 614,
+  "Column7": "Rapat Dengar Pendapat dengan DPR RI.",
+  "Column8": "Rapat Dengar Pendapat dengan DPR RI."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Laporan Progress Report."
+ },
+ {
+  "Column5": 630,
+  "Column6": "Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)."
+ },
+ {
+  "Column5": 640,
+  "Column6": "Laporan Berkala (harian, mingguan, bulanan, triwulanan, semesteran, tahunan)."
+ },
+ {
+  "Column4": 700,
+  "Column5": "EVALUASI PROGRAM"
+ },
+ {
+  "Column5": 710,
+  "Column6": "Evaluasi Program Unit Kerja."
+ },
+ {
+  "Column5": 720,
+  "Column6": "Evaluasi Program Lembaga\/lnstansi."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "4. HUKUM (HR)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "HK",
+  "Column4": "HUKUM"
+ },
+ {
+  "Column4": "000",
+  "Column5": "PROGRAM LEGISLASI"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Bahan\/Materi Program Legislasi Nasional dan Instansi."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Program Legislasi Lembaga\/lnstansi."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PERATURAN PIMPINAN LEMBAGA\/INSTANSI"
+ },
+ {
+  "Column5": "Termasuk rancangan awal sampai dengan rancangan akhir dan telaah hukum."
+ },
+ {
+  "Column5": 110,
+  "Column6": "Peraturan Kepala BPS."
+ },
+ {
+  "Column4": 200,
+  "Column5": "KEPUTUSAN \/KETETAPAN PIMPINAN LEMBAGA\/INSTANSI Termasuk rancangan awal sampai dengan rancangan akhir dan telaah hukum."
+ },
+ {
+  "Column4": 300,
+  "Column5": "INSTRUKSI SURAT EDARAN"
+ },
+ {
+  "Column5": "Termasuk rancangan awal sampai dengan rancangan akhir dan telaah hukum."
+ },
+ {
+  "Column5": 310,
+  "Column6": "Instruksi\/ Surat Edaran Kepala BPS."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Instruksi\/ Surat Edaran Pejabat Tinggi Madya dan Pejabat Tinggi Pratama."
+ },
+ {
+  "Column4": 400,
+  "Column5": "SURAT PERINTAH"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Surat Perintah Kepala BPS."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Surat Perintah Pejabat Madya."
+ },
+ {
+  "Column5": 430,
+  "Column6": "Surat Perintah Pejabat Pratama."
+ },
+ {
+  "Column4": 500,
+  "Column5": "PEDOMAN"
+ },
+ {
+  "Column5": "Standar\/ Pedoman\/ Prosedur Kerja\/ Petunjuk Pelaksanaan\/ Petunjuk Teknis yang Bersifat Nasiona1\/Regiona1\/Instansional termasuk rancangan awal sampai dengan rancangan akhir."
+ },
+ {
+  "Column4": 600,
+  "Column5": "NOTA KESEPAHAMAN"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Dalam Negeri."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Luar Negeri."
+ },
+ {
+  "Column4": 700,
+  "Column5": "DOKUMENTASI HUKUM"
+ },
+ {
+  "Column5": "Undang-undang Peraturan Pemerintah, Keputusan Presiden dan peraturan-peraturan lain di luar produk hukum BPS yang dijadikan referensi."
+ },
+ {
+  "Column4": 800,
+  "Column5": "SOSIALISASI\/ PENYULUHAN \/ PEMBINAAN HIJKUM"
+ },
+ {
+  "Column5": 810,
+  "Column6": "Berkas yang berhubungan dengan kegiatan sosialisasi atau penyuluhan hukum"
+ },
+ {
+  "Column5": 820,
+  "Column6": "Laporan hasil pelaksanaan sosialisasi penyuluhan hukum"
+ },
+ {
+  "Column4": 900,
+  "Column5": "BANTUAN KONSULTASI HUKUM\/ADVOKASI"
+ },
+ {
+  "Column5": "Berkas tentang pemberian bantuan\/konsultasi hukum (Pidana, Perdata, Tata Usaha Negara, dan Agama)."
+ },
+ {
+  "Column4": 1000,
+  "Column5": "KASUS\/SENGKETA HUKUM"
+ },
+ {
+  "Column5": 1010,
+  "Column6": "Pidana"
+ },
+ {
+  "Column6": "Berkas tentang kasus\/ sengketa pidana, baik kejahatan maupun pelanggaran:"
+ },
+ {
+  "Column6": 1011,
+  "Column7": "Proses verbal mulai dari penyelidikan, en idikan sam ai den an vonis."
+ },
+ {
+  "Column6": 1012,
+  "Column7": "Berkas pembelaan dan bantuan hukum"
+ },
+ {
+  "Column6": 1013,
+  "Column7": "Telaah hukum dan opini hukum."
+ },
+ {
+  "Column5": 1020,
+  "Column6": "Perdata"
+ },
+ {
+  "Column6": 1021,
+  "Column7": "Proses gugatan sampai dengan putusan."
+ },
+ {
+  "Column6": 1022,
+  "Column7": "Berkas pembelaan dan bantuan hukum."
+ },
+ {
+  "Column6": 1023,
+  "Column7": "Telaah hukum dan opini hukum"
+ },
+ {
+  "Column5": 1030,
+  "Column6": "Tata Usaha Negara"
+ },
+ {
+  "Column6": 1031,
+  "Column7": "Proses gugatan sampai dengan putusan."
+ },
+ {
+  "Column6": 1032,
+  "Column7": "Berkas pembelaan dan bantuan hukum."
+ },
+ {
+  "Column6": 1033,
+  "Column7": "Telaah hukum dan opini hukum."
+ },
+ {
+  "Column5": 1040,
+  "Column6": "Arbitrase"
+ },
+ {
+  "Column6": 1041,
+  "Column7": "Proses gugatan sampai dengan putusan."
+ },
+ {
+  "Column6": 1042,
+  "Column7": "Berkas pembelaan dan bantuan hukum"
+ },
+ {
+  "Column6": 1043,
+  "Column7": "Telaah hukum dan opini hukum."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "5. ORGANISASI DAN TATA LAKSANA (OT)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "OT ",
+  "Column4": "ORGANISASI DAN TATA LAKSANA"
+ },
+ {
+  "Column4": "000",
+  "Column5": "ORGANISASI"
+ },
+ {
+  "Column5": "Meliputi hal-hal yang berkenaan dengan masalah bahan persipan dan penyusunan organisasi BPS dan unit kerja dibawahnya."
+ },
+ {
+  "Column5": "010",
+  "Column6": "Pembentukan Organisasi."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Pengubahan Organisasi,"
+ },
+ {
+  "Column5": "030",
+  "Column6": "Pembubaran Organisasi."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Evaluasi Kelembagaan:"
+ },
+ {
+  "Column6": "Meliputi naskah-naskah yang berkaitan dengan penilaian dan penyempurnaan organisasi."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Uraian Jabatan:"
+ },
+ {
+  "Column6": "Meliputi hal-hal yang berkenaan dengan masalah klasifikasi kepegawaian\/pekerjaan, penelitian, jabatan dan analisa jabatan"
+ },
+ {
+  "Column4": 100,
+  "Column5": "TATA LAKSANA"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Standar Kompetensi Jabatan Struktural dan Fungsional."
+ },
+ {
+  "Column6": "Meliputi hal-hal yang berkenaan dengan standar kompetensi jabatan struktural dan jabatan fungsional."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Tata Hubungan Kerja:"
+ },
+ {
+  "Column6": "Meliputi hal-hal berkenaan dengan masalah penyusunan tata hubungan kerja baik intern maupun ekstern BPS"
+ },
+ {
+  "Column5": 130,
+  "Column6": "Sistem dan Prosedur:"
+ },
+ {
+  "Column6": "Meliputi hal-hal berkenaan dengan masalah penelaahan tata cara dan metode kegiatan di bidang perstatistikan."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "6.  HUBUNGAN MASYARAKAT (HM)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "HM ",
+  "Column4": "HUBUNGAN MASYARAKAT"
+ },
+ {
+  "Column4": "000",
+  "Column5": "KEPROTOKOLAN"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Penyelenggaraan acara kedinasan (upacara, pelantikan, peresmian dan jamuan termasuk acara peringatan harihari besar)."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Agenda kegiatan pimpinan ."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Kunjungan dinas:"
+ },
+ {
+  "Column6": "031",
+  "Column7": "Kunjungan dinas dalam dan luar negeri."
+ },
+ {
+  "Column6": "032",
+  "Column7": "Kunjungan dinas pimpinan lembaga\/instansi."
+ },
+ {
+  "Column6": "033",
+  "Column7": "Kunjungan dinas pejabat lain\/ pegawai."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Buku tamu."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Daftar nama\/ alamat kantor\/pejabat."
+ },
+ {
+  "Column4": 100,
+  "Column5": "LIPUTAN MEDIA MASSA"
+ },
+ {
+  "Column5": "Liputan kegiatan dinas pimpinan acara kedinasan dan peristiwa-peristiwa bidang masing-masing yang diliput oleh media massa (cetak dan elektronik)."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENYAJIAN INFORMASI KELEMBAGAAN"
+ },
+ {
+  "Column5": "Penyajian informasi kelembagaan, pengumpulan, pengolahan dan penyajian informasi kelembagaan."
+ },
+ {
+  "Column5": 210,
+  "Column6": "Kliping Koran."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Penerbitan majalah, buletin, koran dan jurnal."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Brosur\/leaflet\/ poster\/plakat."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Pengumuman\/pemberitaan."
+ },
+ {
+  "Column4": 300,
+  "Column5": "HUBUNGAN ANTAR LEMBAGA"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Hubungan antar lembaga pemerintah."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Hubungan dengan organisasi sosial\/LSM."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Hubungan dengan perusahaan."
+ },
+ {
+  "Column5": 340,
+  "Column6": "Hubungan dengan perguruan tinggi\/ sekolah: magang, Pendidikan Sistem Ganda, Praktek Kerja Lapangan (PKL)."
+ },
+ {
+  "Column5": 350,
+  "Column6": "Forum Kehumasan (Bakohumas\/ Perhumas)."
+ },
+ {
+  "Column5": 360,
+  "Column6": "Hubungan dengan media massa:"
+ },
+ {
+  "Column6": "a. Siaran pers\/konferensi pers\/pers release;"
+ },
+ {
+  "Column6": "b. Kunjungan wartawan\/ peliputan;"
+ },
+ {
+  "Column6": "c. Wawancara."
+ },
+ {
+  "Column4": 400,
+  "Column5": "DENGAR PENDAPAT\/HEARING DPR"
+ },
+ {
+  "Column4": 500,
+  "Column5": "PENYIAPAN BAHAN MATERI PIMPINAN"
+ },
+ {
+  "Column4": 600,
+  "Column5": "PUBLIKASI MELALUI MEDIA CETAK MAUPUN ELEKTRONIK"
+ },
+ {
+  "Column4": 700,
+  "Column5": "PAMERAN \/ SAYEMBARA\/ LOMBA\/ FESTIVAL, PEMBUATAN SPANDUK DAN IKLAN"
+ },
+ {
+  "Column4": 800,
+  "Column5": "PENGHARGAAN \/ KENANG-KENANGAN \/ CINDERA MATA"
+ },
+ {
+  "Column4": 900,
+  "Column5": "UCAPAN TERIMA KASIH, UCAPAN SELAMAT, BELA SUNGKAWA, PERMOHONAN MAAF"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "7. KEARSIPAN (KA)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "KA ",
+  "Column4": "KEARSIPAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "PENCETAKAN"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Penyiapan pembuatan buku kerja dan kalender BPS."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Penerimaan permintaan mencetak dan naskah yang akan dicetak."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Menyusun perencanaan cetak."
+ },
+ {
+  "Column5": "040",
+  "Column6": "pencetakan naskah, surat, dokumen secara digital dan risograph."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PENGURUSAN SURAT"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Surat Masuk\/ Surat Keluar."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Penggunaan Aplikasi Surat Menyurat."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENGELOLAAN ARSIP DINAMIS"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Penyusunan Sistem Arsip."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Penciptaan dan Pemberkasan Arsip."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Pengolahan Data Base menjadi Informasi."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Alih Media."
+ },
+ {
+  "Column4": 300,
+  "Column5": "PENYIMPANAN DAN PEMELIHARAAN ARSIP"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Daftar Arsip."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Pemeliharaan Arsip dan Ruang Penyimpanan (seperti kegiatan fumigasi)."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Daftar Pencarian Arsip."
+ },
+ {
+  "Column5": 340,
+  "Column6": "Daftar Arsip Informasi Publik."
+ },
+ {
+  "Column5": 350,
+  "Column6": "Daftar Arsip Vital\/ Aset."
+ },
+ {
+  "Column5": 360,
+  "Column6": "Layanan Arsip (peminjam, pengguna arsip)."
+ },
+ {
+  "Column5": 370,
+  "Column6": "Persetujuan Jadwal Retensi Arsip."
+ },
+ {
+  "Column4": 400,
+  "Column5": "PEMINDAHAN ARSIP"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Pemindahan Arsip Inaktif."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Daftar Arsip yang Dipindahkan."
+ },
+ {
+  "Column4": 500,
+  "Column5": "PEMUSNAHAN ARSIP YANG TIDAK BERNILAI GUNA"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Berita Acara Pemusnahan."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Daftar Arsip yang Dimusnahkan."
+ },
+ {
+  "Column5": 530,
+  "Column6": "Rekomendasi\/ Pertimbangan\/ Pemusnahan Arsip dari ANRI."
+ },
+ {
+  "Column5": 540,
+  "Column6": "Surat Keputusan Pemusnahan."
+ },
+ {
+  "Column4": 600,
+  "Column5": "PENYERAHAN ARSIP STATIS"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Berita Acara Serah Terima Arsip."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Daftar Arsip yang Diserahkan."
+ },
+ {
+  "Column4": 700,
+  "Column5": "PEMBINAAN KEARSIPAN"
+ },
+ {
+  "Column5": 710,
+  "Column6": "Pembinaan Arsiparis."
+ },
+ {
+  "Column5": 720,
+  "Column6": "Apresiasi\/ Sosialisasi\/Penyuluhan Kearsipan, Diklat Profesi."
+ },
+ {
+  "Column5": 730,
+  "Column6": "Bimbingan Teknis"
+ },
+ {
+  "Column5": 740,
+  "Column6": "Penilaian dan sertifikasi SDM kearsipan"
+ },
+ {
+  "Column5": 750,
+  "Column6": "Supervisi dan Monitoring"
+ },
+ {
+  "Column5": 760,
+  "Column6": "Penilaian dan Akreditasi Unit Kerja Kearsipan"
+ },
+ {
+  "Column5": 770,
+  "Column6": "Implementasi Pengelolaan Arsip Elektronik"
+ },
+ {
+  "Column5": 780,
+  "Column6": "Penghargaan Kearsipan"
+ },
+ {
+  "Column5": 790,
+  "Column6": "Pengawasan Kearsipan"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "8. KERUMAHTANGGAAN (RT)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "RT",
+  "Column4": "KERUMAHTANGGAAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "TELEKOMUNIKASI"
+ },
+ {
+  "Column5": "Adminitrasi penggunaan\/langganan peralatan telekomunikasi meliputi: telepon, radio, teleks., TV kabel dan internet"
+ },
+ {
+  "Column4": 100,
+  "Column5": "ADMINITRASI PENGGUNAAN FASILITAS KANTOR"
+ },
+ {
+  "Column5": "Administrasi penggunaan fasilitas kantor meliputi permintaan dan penggunaan ruang, gedung, kendaraan, wisma rumah dinas, dan fasilitas kantor lainnya"
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENGURUSAN KENDARAAN DINAS"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Pengurusan Surat Kendaraan Dinas."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Pemeliharaan dan Perbaikan."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Pengurusan Kehilangan dan Masalah Kendaraan."
+ },
+ {
+  "Column4": 300,
+  "Column5": "PEMELIHARAAN GEDUNG DAN TAMAN"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Pertamanan\/ Lanscaping."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Penghijauan."
+ },
+ {
+  "Column5": 330,
+  "Column6": "Perbaikan Gedung."
+ },
+ {
+  "Column5": 340,
+  "Column6": "Perbaikan Rumah Dinas\/Wisma."
+ },
+ {
+  "Column5": 350,
+  "Column6": "Kebersihan Gedung dan Taman."
+ },
+ {
+  "Column4": 400,
+  "Column5": "PENGELOLAAN JARINGAN LISTRIK, AIR, TELEPON DAN KOMPUTER"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Perbaikan\/ Pemeliharaan."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Pemasangan."
+ },
+ {
+  "Column4": 500,
+  "Column5": "KETERTIBAN DAN KEAMANAN"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Pengamanan, penjagaan dan pengawasan terhadap pejabat, kantor, dan rumah dinas:"
+ },
+ {
+  "Column6": 511,
+  "Column7": "Daftar Nama Satuan Pengamanan."
+ },
+ {
+  "Column6": 512,
+  "Column7": "Daftar Jaga\/ Daftar Piket."
+ },
+ {
+  "Column6": 513,
+  "Column7": "Surat Ijin Keluar Masuk Orang atau Barang."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Laporan Ketertiban dan Keamanan:"
+ },
+ {
+  "Column6": 521,
+  "Column7": "Kehilangan, kerusakan, kecelakaaan, gangguan."
+ },
+ {
+  "Column4": 600,
+  "Column5": "ADMINISTRASI PENGELOLAAN PARKIR"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "9. PERLENGKAPAN (PL)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "PL",
+  "Column4": "PERLENGKAPAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "Rencana Kebutuhan Barang dan Jasa"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Usulan Unit Kerja"
+ },
+ {
+  "Column5": "020",
+  "Column6": "Rencana Kebutuhan lembaga Pusat\/Daerah"
+ },
+ {
+  "Column4": 100,
+  "Column5": "Berkas Perkenalan"
+ },
+ {
+  "Column4": 200,
+  "Column5": "Pengadaan Barang"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Pengadaan\/pembelian barang tidak melalui lelang"
+ },
+ {
+  "Column6": "(pengadaan langsung)"
+ },
+ {
+  "Column6": "Usulan unit kerja"
+ },
+ {
+  "Column6": "Proses pengadaan barang Serah terima barang"
+ },
+ {
+  "Column5": 220,
+  "Column6": "Pengadaan\/pembelian barang melalui lelang"
+ },
+ {
+  "Column6": "Umum"
+ },
+ {
+  "Column6": "Terbatas"
+ },
+ {
+  "Column6": "Pemilihan Langsung"
+ },
+ {
+  "Column6": "Serah terima barang"
+ },
+ {
+  "Column5": 230,
+  "Column6": "Perolehan barang melalui bantuan\/hibah"
+ },
+ {
+  "Column5": 240,
+  "Column6": "Pengadaan barang melalui tukar menukar"
+ },
+ {
+  "Column5": 250,
+  "Column6": "Pemanfaatan barang melalui pinjam pakai"
+ },
+ {
+  "Column5": 260,
+  "Column6": "Pemanfaatan barang melalui sewa"
+ },
+ {
+  "Column5": 270,
+  "Column6": "Pemanfaatan barang melalui kerjasama pemanfaatan"
+ },
+ {
+  "Column5": 280,
+  "Column6": "Pemanfaatan barang melalui bangun serah guna\/bangun serah guna"
+ },
+ {
+  "Column4": 300,
+  "Column5": "Pengadaan Jasa"
+ },
+ {
+  "Column5": "Berkas pengadaan jasa oleh pihak ketiga terdiri dari berkas penawaran sampai dengan kontrak perjanjian"
+ },
+ {
+  "Column4": 400,
+  "Column5": "Laporan kemajuan pelaksanaan belanja modal"
+ },
+ {
+  "Column4": 500,
+  "Column5": "INVENTARISASI"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Inventarisasi Ruangan\/Gedung\/Bangunan."
+ },
+ {
+  "Column6": "011 Daftar Inventaris Ruangan (DIR)"
+ },
+ {
+  "Column6": "012 Buku Inventaris\/Pembantu Inventaris Ruangan"
+ },
+ {
+  "Column5": 520,
+  "Column6": "Inventarisasi Barang."
+ },
+ {
+  "Column6": "021 Daftar Opname Fisik Barang Inventaris ( (DOFBI)"
+ },
+ {
+  "Column6": "022 Daftar Inventaris Barang (DIB)"
+ },
+ {
+  "Column6": "023 Daftar Kartu Inventaris Barang"
+ },
+ {
+  "Column6": "024 Buku Inventaris\/Pembantu Inventaris Barang"
+ },
+ {
+  "Column5": 530,
+  "Column6": "Penyusunan Laporan Tahunan Inventaris BMN"
+ },
+ {
+  "Column5": 540,
+  "Column6": "Sensus BMN"
+ },
+ {
+  "Column4": 600,
+  "Column5": "PENYIMPANAN"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Penatausahaan Penyimpanan Barang\/Publikasi :"
+ },
+ {
+  "Column6": 611,
+  "Column7": "Tanda terima\/ surat pengantar\/ surat pengiriman barang"
+ },
+ {
+  "Column6": 612,
+  "Column7": "Surat Pernyataan harga dan mutu barang"
+ },
+ {
+  "Column6": 613,
+  "Column7": "Berita Acara serah terima barang hasil pengadaan"
+ },
+ {
+  "Column6": 614,
+  "Column7": "Buku Penerimaan"
+ },
+ {
+  "Column6": 615,
+  "Column7": "Buku Persediaan barang\/kartu stock barang"
+ },
+ {
+  "Column6": 616,
+  "Column7": "Kartu barang\/kartu gudang"
+ },
+ {
+  "Column5": 620,
+  "Column6": "Penyusunan Laporan persedian barang"
+ },
+ {
+  "Column4": 700,
+  "Column5": "PENYALURAN"
+ },
+ {
+  "Column5": 710,
+  "Column6": "Penatausahaan penyaluran barang\/publikasi"
+ },
+ {
+  "Column6": 711,
+  "Column7": "Surat Permintaan dari unit kerja\/ formulir permintaan"
+ },
+ {
+  "Column6": 712,
+  "Column7": "Surat Perintah Mengeluarkan Barang (SPMB)"
+ },
+ {
+  "Column6": 713,
+  "Column7": "Surat Perintah Mengeluarkan barang Inventaris"
+ },
+ {
+  "Column6": 714,
+  "Column7": "Berita Acara Serah terima Distribusi Barang"
+ },
+ {
+  "Column4": 800,
+  "Column5": "PENGHAPUSAN BMN"
+ },
+ {
+  "Column5": 810,
+  "Column6": "Penghapusan Barang Bergerak\/Barang Inventaris Kantor "
+ },
+ {
+  "Column6": "Nota usulan penghapusan"
+ },
+ {
+  "Column6": "Surat pembentukan panitia penghapusan"
+ },
+ {
+  "Column6": "Berita Acara pemeriksaan\/penelitian barang yang akan dihapus"
+ },
+ {
+  "Column6": "Surat Izin\/keputusan penghapusan barang"
+ },
+ {
+  "Column6": "Surat Keputusan Panitia Lelang"
+ },
+ {
+  "Column6": "Risalah lelang"
+ },
+ {
+  "Column6": "Berita Acara dan laporan Tindak Lanjut"
+ },
+ {
+  "Column6": "Penghapusan"
+ },
+ {
+  "Column4": 900,
+  "Column5": "BUKTI-BUKTI KEPEMILIKAN DAN KELENGKAPAN BMN"
+ },
+ {
+  "Column5": "a.    Master Plan Bangunan"
+ },
+ {
+  "Column5": "b.    Sertifikat Tanah"
+ },
+ {
+  "Column5": "c.    Ijin Mendidirkan Bangunan (IMB)"
+ },
+ {
+  "Column5": "d.    Bukti Kepemilikan Kendaraan Bermotor (BPKB"
+ },
+ {
+  "Column5": "e.    Surat Tanda Nomor Kendaraan (STNK)"
+ },
+ {
+  "Column5": "f.    Denah\/Gambar bangunan\/lnstalasi Listrik, Air dan Gas"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "10.       PENDIDIKAN DAN PELATIHAN (DL)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "DL ",
+  "Column4": "PENDIDIKAN DAN LATIHAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "PERENCANAAN DIKLAT"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Analisa Kebutuhan Penyelenggaraan Diklat."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Sistem dan Metode."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Kurikulum."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Bahan Ajar\/ Modul."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Konsultasi Penyelenggaraan Diklat."
+ },
+ {
+  "Column4": 100,
+  "Column5": "AKREDITASI LEMBAGA DIKLAT"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Surat Permohonan Akreditasi"
+ },
+ {
+  "Column5": 120,
+  "Column6": "Laporan Hasil Verifikasi Lapangan"
+ },
+ {
+  "Column5": 130,
+  "Column6": "Berita Acara Rapat Verifikasi"
+ },
+ {
+  "Column5": 140,
+  "Column6": "Berita Acara Rapat Tim Penilai"
+ },
+ {
+  "Column5": 150,
+  "Column6": "Surat Keputusan Penetapan Akreditasi"
+ },
+ {
+  "Column5": 160,
+  "Column6": "Sertifikat Akreditasi"
+ },
+ {
+  "Column5": 170,
+  "Column6": "Laporan Akreditasi Lembaga Diklat"
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENYELENGGARAAN DIKLAT"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Prajabatan."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Kepemimpinan."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Teknis"
+ },
+ {
+  "Column5": 240,
+  "Column6": "Fungsional"
+ },
+ {
+  "Column5": 250,
+  "Column6": "Evaluasi Pasca Diklat."
+ },
+ {
+  "Column4": 300,
+  "Column5": "SERTIFIKASI SUMBERDAYA MANUSIA KEDIKLATAN"
+ },
+ {
+  "Column5": "Naskah-naskah yang berkaitan dengan kegiatan sertifikasi sumberdaya kediklatan."
+ },
+ {
+  "Column4": 400,
+  "Column5": "SISTEM INFORMASI DIKLAT"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Data Lembaga Diklat."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Data Prasarana Diklat."
+ },
+ {
+  "Column5": 430,
+  "Column6": "Data Sarana Diklat."
+ },
+ {
+  "Column5": 440,
+  "Column6": "Data Pengelola Diklat."
+ },
+ {
+  "Column5": 450,
+  "Column6": "Data Penyelenggara Diklat."
+ },
+ {
+  "Column5": 460,
+  "Column6": "Data Widyaiswara."
+ },
+ {
+  "Column5": 470,
+  "Column6": "Data Program Diklat."
+ },
+ {
+  "Column4": 500,
+  "Column5": "REGISTRASI SERTIFIKASI\/STTPL Peserta Diklat"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Surat Permohonan Kode Registrasi."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Buku Registrasi."
+ },
+ {
+  "Column5": 530,
+  "Column6": "Surat Penyampaian Kode Registrasi."
+ },
+ {
+  "Column4": 600,
+  "Column5": "EVALUASI PENYELENGGARAAN DIKLAT"
+ },
+ {
+  "Column5": 610,
+  "Column6": "Evaluasi Materi Penyelenggaraan."
+ },
+ {
+  "Column5": 620,
+  "Column6": "Evaluasi Pengajar\/Instruktur\/Fasilitator."
+ },
+ {
+  "Column5": 630,
+  "Column6": "Evaluasi Peserta."
+ },
+ {
+  "Column5": 640,
+  "Column6": "Evaluasi Sarana dan Prasarana."
+ },
+ {
+  "Column5": 650,
+  "Column6": "Evaluasi Alumni Peserta."
+ },
+ {
+  "Column5": 660,
+  "Column6": "Laporan Penyelenggaran."
+ },
+ {
+  "Column5": 670,
+  "Column6": "Evaluasi Alumni Diklat"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "11. KEPUSTAKAAN (PK)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "PK ",
+  "Column4": "KEPUSTAKAAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "PENYIMPANAN DEPOSIT BAHAN PUSTAKA"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Bukti Penerimaan Koleksi Bahan Pustaka Deposit."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Administrasi Pengolahan Deposit Bahan Pustaka."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PENGADAAN BAHAN PUSTAKA"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Buku Induk Koleksi."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Daftar Buku Terseleksi."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Daftar Buku Dalam Pemesanan."
+ },
+ {
+  "Column5": 140,
+  "Column6": "Daftar Buku Dalam Permintaan."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PENGOLAHAN BAHAN PUSTAKA"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Lembar Kerja Pengolahan Bahan Pustaka (buram, pengkatalogan)."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Shell List\/Jajaran Kartu Utama (master list)."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Daftar Tambahan Buku (assesion list)."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Daftar\/Jajaran Kendali (subjek dan pengarang)."
+ },
+ {
+  "Column4": 300,
+  "Column5": "LAYANAN JASA PERPUSTAKAAN DAN INFORMASI"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Data dan - 28 -tatistic anggota, pengunjung dan peminjaman bahan pustaka."
+ },
+ {
+  "Column5": 320,
+  "Column6": "Pertanyaan, Rujukan dan Jawaban."
+ },
+ {
+  "Column4": 400,
+  "Column5": "PRESERVASI BAHAN PUSTAKA"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Survei Kondisi Bahan Pustaka."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Reprografi Bahan Pustaka."
+ },
+ {
+  "Column4": 500,
+  "Column5": "PEMBINAAN PERPUSTAKAAN"
+ },
+ {
+  "Column5": 510,
+  "Column6": "Bimbingan Teknis."
+ },
+ {
+  "Column5": 520,
+  "Column6": "Penyuluhan."
+ },
+ {
+  "Column5": 530,
+  "Column6": "Sosialisasi."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "12.       INFORMATIKA (IF)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "IF",
+  "Column4": "INFORMATIKA"
+ },
+ {
+  "Column4": "000",
+  "Column5": "RENCANA STRATEGIS MASTERPLAN PEMBANGUNAN SISTEM INFORMASI"
+ },
+ {
+  "Column4": 100,
+  "Column5": "DOKUMENTASI ARSITEKTUR"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Sistem Informasi."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Sistem Aplikasi."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Infrastruktur."
+ },
+ {
+  "Column4": 200,
+  "Column5": "PEREKAMAN DAN PEMUTAKHIRAN DATA"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Formulir Isian."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Daftar Petugas Perekaman."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Jadwal Pelaksanaan."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Laporan Hasil Perekaman dan Pemutakhiran Data."
+ },
+ {
+  "Column4": 300,
+  "Column5": "MIGRASI SISTEM APLIKASI DATA"
+ },
+ {
+  "Column4": 400,
+  "Column5": "DOKUMEN HOSTING"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Formulir Permintaan Hosting."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Layanan Hasil Uji Kelayakan."
+ },
+ {
+  "Column5": 430,
+  "Column6": "Laporan Pelaksanaan Hosting."
+ },
+ {
+  "Column4": 500,
+  "Column5": "LAYANAN BACK-UP DATA DIGITAL"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "13.  PENGAWASAN (PW)"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "PW ",
+  "Column4": "PENGAWASAN"
+ },
+ {
+  "Column4": "000",
+  "Column5": "RENCANA PENGAWASAN"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Rencana Strategis Pengawasan."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Rencana Kerja Tahunan."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Rencana Kinerja Tahunan."
+ },
+ {
+  "Column5": "040",
+  "Column6": "Penetapan Kinerja Tahunan."
+ },
+ {
+  "Column5": "050",
+  "Column6": "Rakor Pengawasan Tingkat Nasional."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PELAKSANAAN PENGAWASAN"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Naskah-naskah yang berkaitan dengan audit mulai dari surat penugasan sampai dengan surat menyurat."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Laporan Hasil Audit (LHA), Laporan Hasil Pemeriksaaan Operasional (LHPO), Laporan Hasil Evaluasi (LHE), Laporan Akuntan (LA), Laporan Auditor Independent (LAI) yang memerlukan Tindak Lanjut (TL)."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Laporan Hasil Audit Investigasi (LHAI) yang mengandung unsur Tindak Pidana Korupsi (TPK) dan memerlukan tindak lanjut."
+ },
+ {
+  "Column5": 140,
+  "Column6": "Laporan Perkembangan Penanganan Surat Pengaduan Masyarakat."
+ },
+ {
+  "Column5": 150,
+  "Column6": "Laporan Pemutakhiran Data."
+ },
+ {
+  "Column5": 160,
+  "Column6": "Laporan Perkembangan BMN."
+ },
+ {
+  "Column5": 170,
+  "Column6": "Laporan kegiatan pendampingan penyusunan laporan keuangan dan Reviu Departmen\/ LPND."
+ },
+ {
+  "Column5": 180,
+  "Column6": "Good Corporate Governance (GCG)."
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "14. TRANSFORMASI STATISTIK"
+ },
+ {
+  "B. KLASIFIKASI ARSIP FASILITATIF": "TS",
+  "Column4": "TRANSFORMASI STATISTIK"
+ },
+ {
+  "Column4": "000",
+  "Column5": "PENYUSUNAN RENCANA KEGIATAN BIDANG TRANSFORMASI STATISTIK (TOR)"
+ },
+ {
+  "Column5": "010",
+  "Column6": "Transformasi Proses Bisnis Statistik."
+ },
+ {
+  "Column5": "020",
+  "Column6": "Transformasi TIK dan Komunikasi."
+ },
+ {
+  "Column5": "030",
+  "Column6": "Transformasi Manajemen Sumberdaya Manusia dan Kelembagaan."
+ },
+ {
+  "Column4": 100,
+  "Column5": "PENYUSUNAN BAHAN TERKAIT TRANSFORMASI STATISTIK"
+ },
+ {
+  "Column5": 110,
+  "Column6": "Rencana Sarana dan Prasarana Transformasi Statistik."
+ },
+ {
+  "Column5": 120,
+  "Column6": "Statistical Busines Frame Work and Architecture (SBFA)."
+ },
+ {
+  "Column5": 130,
+  "Column6": "Analysis Document."
+ },
+ {
+  "Column5": 140,
+  "Column6": "CSI."
+ },
+ {
+  "Column5": 150,
+  "Column6": "BPR."
+ },
+ {
+  "Column5": 160,
+  "Column6": "Sosialisasi, internalisasi, workshop terkait kegiatan transformasi."
+ },
+ {
+  "Column5": 170,
+  "Column6": "Deliverables."
+ },
+ {
+  "Column4": 200,
+  "Column5": "MANAJEMEN PERUBAHAN"
+ },
+ {
+  "Column5": 210,
+  "Column6": "Steering Committee (Dewan Pengarah)."
+ },
+ {
+  "Column5": 220,
+  "Column6": "Change Agent."
+ },
+ {
+  "Column5": 230,
+  "Column6": "Change Leader."
+ },
+ {
+  "Column5": 240,
+  "Column6": "Change Champion."
+ },
+ {
+  "Column5": 250,
+  "Column6": "Working Group."
+ },
+ {
+  "Column5": 260,
+  "Column6": "Evaluasi dan Monitoring Perkembangan Program STATCAP CERDAS•, Sensus Daring\/CPOC."
+ },
+ {
+  "Column5": 270,
+  "Column6": "Sosialisasi, Internalisasi, Workshop terkait kegiatan Manajemen Perubahan, Kick of Meeting."
+ },
+ {
+  "Column4": 300,
+  "Column5": "KETERPADUAN TRANSFORMASI"
+ },
+ {
+  "Column5": 310,
+  "Column6": "Mendukung Implementasi Transformasi: CAPI SAKERNAS, Continous Survey."
+ },
+ {
+  "Column4": 400,
+  "Column5": "LAPORAN TRANSFORMASI STATISTIK"
+ },
+ {
+  "Column5": 410,
+  "Column6": "Laporan Kemajuan."
+ },
+ {
+  "Column5": 420,
+  "Column6": "Laporan Bulanan."
+ },
+ {
+  "Column5": 430,
+  "Column6": "Laporan Triwulanan."
+ },
+ {
+  "Column5": 440,
+  "Column6": "Laporan Tahunan."
+ }
+]
+}
